@@ -487,6 +487,4 @@ Sometimes, however, you may acquire a file but not the program it came from. As 
 
 You can also use R to connect to a database and read in data.
 
-Use the RODBC package to connect to databases through an ODBC connection.
-
 Use the DBI package to connect to databases through individual drivers. The DBI package provides a common syntax for working with different databases. You will have to download a database-specific package to use in conjunction with DBI. These packages provide the API for the native drivers of different database programs. For MySQL use RMySQL, for SQLite use RSQLite, for Oracle use ROracle, for PostgreSQL use RPostgreSQL, and for databases that use drivers based on the Java Database Connectivity (JDBC) API use RJDBC. Once you have loaded the appropriate driver package, you can use the commands provided by DBI to access your database.

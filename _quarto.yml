@@ -2,9 +2,9 @@ project:
   type: book
   output-dir: docs
   
-book: 
+book:
   title: "Hands-On Programming with R "
-  author: "Garrett Grolemund"
+  author: "Garrett Grolemund "
   cover-image: images/cover.png
   site-url: https://rstudio-education.github.io/hopr/
   repo-url: https://github.com/jjallaire/hopr/

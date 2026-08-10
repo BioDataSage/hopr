@@ -1,23 +1,14 @@
----
-description-meta: |
-  This book will teach you how to program in R, with hands-on examples. I 
-  wrote it for non-programmers to provide a friendly introduction  to the R
-  language. You'll learn how to load data, assemble and disassemble data 
-  objects, navigate R's environment system, write your own functions, and
-  use all of R's programming tools. Throughout the book, you'll use your
-  newfound skills to solve practical data science problems.
----
+# Quarto Based OTTR Course {.unnumbered}
 
-## Welcome {.unnumbered}
+This course is part of a series of courses for the [Informatics Technology for Cancer Research (ITCR)](https://itcr.cancer.gov/) called the Informatics Technology for Cancer Research Education Resource. This material was created by the ITCR Training Network (ITN)  which is a collaborative effort of researchers around the United States to support cancer informatics and data science training through resources, technology, and events. This initiative is funded by the following grant:  [National Cancer Institute (NCI)](https://www.cancer.gov/)  UE5 CA254170. Our courses feature tools developed by ITCR Investigators and make it easier for principal investigators, scientists, and analysts to integrate cancer informatics into their workflows. Please see our website at [www.itcrtraining.org](www.itcrtraining.org) for more information.
 
-This is the website for **"Hands-On Programming with R"**. This book will teach you how to program in R, with hands-on examples. I wrote it for non-programmers to provide a friendly introduction to the R language. You'll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools. Throughout the book, you'll use your newfound skills to solve practical data science problems.
 
-If you are already comfortable with R, and would like to focus instead how to analyze data using R's Tidyverse packages, I recommend [R for Data Science](http://r4ds.had.co.nz/), a book that I co-authored with Hadley Wickham.
+## Available Course Formats
 
-::: {.callout-note appearance="simple"}
-This book was originally created using [bookdown](https://bookdown.org) and published at <https://rstudio-education.github.io/hopr/>. This site is a port of the original book source to the [Quarto](https://quarto.org) publishing system in order to provide an example of it's use.
-:::
+This course is available in multiple formats which allows you to take it in the way that best suites your needs. You can take it for certificate which can be for free or fee.
 
-## License
+- The material for this course can be viewed without login requirement on this [website](https://www.ottrproject.org/). This format might be most appropriate for you if you rely on screen-reader technology.
+- This course can be taken for [free certification through Leanpub](https://leanpub.com/).
+- This course can be taken on [Coursera for certification here](https://www.coursera.org/) (but it is not available for free on Coursera).
+- Our courses are open source, you can find the [source material for this course on GitHub](https://github.com/fhdsl/OTTR_Quarto).
 
-This website is (and will always be) **free to use**, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) License. If you'd like a **physical copy** of the book, you can order it from [amazon](https://www.amazon.com/Hands-Programming-Write-Functions-Simulations/dp/1449359019); it was published by O'Reilly in July 2014. If you'd like to give back, please consider reporting a typo or leaving a pull request at [github.com/rstudio-education/hopr](https://github.com/rstudio-education/hopr).
